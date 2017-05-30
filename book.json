@@ -3,12 +3,10 @@
         "expandable-chapters",
         "layout"
     ],
-    "pluginsConfig": {
-         "localized-footer": {
+    "localized-footer": {
          "hline": true,            
          "filename": "./FOOTER.md"
-      }
-     },
+    },
     "styles": {
         "website": "styles/website.css",
         "ebook": "styles/ebook.css",
