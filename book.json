@@ -5,7 +5,7 @@
     ],
     "localized-footer": {
          "hline": true,            
-         "filename": "./FOOTER.md"
+         "filename": "FOOTER.md"
     },
     "styles": {
         "website": "styles/website.css",
