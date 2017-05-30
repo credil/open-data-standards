@@ -7,10 +7,7 @@
      "layout": {
         "headerPath" : "FOOTER.md",
         "footerPath" : "FOOTER.md"
-     }
-}
-
-{
+     },
     "styles": {
         "website": "styles/website.css",
         "ebook": "styles/ebook.css",
