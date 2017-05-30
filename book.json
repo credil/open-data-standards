@@ -1,8 +1,14 @@
 {
     "plugins": [
         "expandable-chapters",
-        "localized-footer"
+        "localized-footer",
+        "-font-settings"
     ],
+    "fontsettings": {
+            "theme": 'white', // 'sepia', 'night' or 'white', 
+            "family": 'sans', // 'serif' or 'sans', 
+            "size": 2         // 1 - 4 
+    },
     "localized-footer": {
         "hline": true,          
         "filename": "FOOTER.md"
