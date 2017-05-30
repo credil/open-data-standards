@@ -5,8 +5,7 @@
     ],
     "pluginsConfig": {
      "layout": {
-        "headerPath" : "FOOTER.md",
-        "footerPath" : "FOOTER.md"
+        "footerPath" : "FOOTER.html"
          }
      },
     "styles": {
