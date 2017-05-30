@@ -1,7 +1,8 @@
 {
     "plugins": [
         "expandable-chapters",
-        "layout"
+        "localized-footer",
+        
     ],
     "localized-footer": {
          "hline": true,            
