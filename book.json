@@ -1,16 +1,14 @@
 {
     "plugins": [
         "expandable-chapters",
-        "localized-footer"
-    ]
+        "layout"
+    ],
+    "pluginsConfig": {
+     "layout": {
+        "headerPath" : "FOOTER.md",
+        "footerPath" : "FOOTER.md"
+     }
 }
-
-{
-"localized-footer": {
-     "hline": true,            // whether to include an horizontal line above the footer
-     "filename": "./FOOTER.md" // may also be a relative path to the book root
-   }
- }
 
 {
     "styles": {
